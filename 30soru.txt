@@ -1,0 +1,10 @@
+000000000VCEVAP ANAHTARI       AABCDABCDABCDABCDABCDABCDAAAAAA
+000000001VJhon asdsdasE        AABCDABCDABCDABCDABCDABCDAAAAAA                                                                           
+000000002VVito Corleone        ADCAADDCBBBDDCCDDCBBDCCCDDAAAAA                                                                           
+000000003VMicheal Corleone     ADDCBADCBABCDCBBADBDAACBADABABB                                                                           
+000000004VTony Montana         ADCADCDCDDACDBCCACCDDACDCAABABA                                                                           
+000000005VÝlber Ortaylý        ACDABADCCABCDCADADBDDAAABDAABAB                                                                           
+000000006VCelal Þengör         ADACBAACDABCDCBCAACDDCCDCDABABA                                                                           
+000000007VAlber Einstein       ACAABADDBCBCDCBCACBCDACABCABABA                                                                           
+000000008Vmarie curie          ADDCBADCBABDDCBCACBDDCCDCDABAAC                                                                           
+000000009Voliver khan          ACCCBADCACBCDCBBCCBDDDCCAAADAAC                                                                           
